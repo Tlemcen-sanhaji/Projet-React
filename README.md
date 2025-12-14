@@ -65,7 +65,7 @@ npm install
 ```
 4. Configurez l'IP de l'API dans ```App.js``` :
 Simulateur iOS (Mac) : ```const API_URL = 'http://localhost:3000/products';```
-Android / Téléphone réel : Utilisez votre IP locale (ex: ```192.168.1.15```).
+Android / Téléphone réel : Utilisez votre IP locale (ex: ```http://192.168.1.15:3000/products```).
 
 5. Lancez l'application :
 ```
